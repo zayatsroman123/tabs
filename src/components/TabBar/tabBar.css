@@ -1,0 +1,20 @@
+.tabBar {
+    display: flex;
+    flex-direction: row;
+}
+
+.tabBar--small .tab {
+    font-size: 12px;
+    padding: 10px 16px;
+}
+
+.tabBar--medium .tab {
+    font-size: 14px;
+    padding: 11px 20px;
+
+}
+
+.tabBar--large .tab {
+    font-size: 16px;
+    padding: 12px 24px;
+}
