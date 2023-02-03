@@ -8,12 +8,12 @@
 }
 .tab--active {
     color: white;
-    background-color: #1ea7fd;
+    background-color: #0000FF;
 }
 .tab--inActive {
     color: #333;
     background-color: transparent;
-    box-shadow: rgba(0, 0, 0, .15) 0 0 1px 1px inset;
+    box-shadow: rgba(0, 0, 0, 0.15) 0 0 1px 1px inset;
 }
 .tab--small {
     font-size: 12px;
